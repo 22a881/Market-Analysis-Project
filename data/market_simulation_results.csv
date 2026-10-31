@@ -1,0 +1,4 @@
+Scenario,Current Price,Predicted Next Price,Expected Availability,Predicted Availability
+Market Stability,120,121.05,متوفر,متوفر
+Moderate Escalation,150,146.66,ناقص,ناقص
+Severe Crisis and Closure,180,167.66,شحيح,شحيح
